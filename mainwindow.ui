@@ -14,17 +14,17 @@
    <string>MainWindow</string>
   </property>
   <widget class="QWidget" name="centralWidget">
-   <widget class="QPushButton" name="pushButton">
+   <widget class="QPushButton" name="btnPushButton00">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>30</y>
-      <width>75</width>
+      <x>20</x>
+      <y>200</y>
+      <width>121</width>
       <height>23</height>
      </rect>
     </property>
     <property name="text">
-     <string>PushButton</string>
+     <string>btnPushButton00</string>
     </property>
    </widget>
   </widget>
